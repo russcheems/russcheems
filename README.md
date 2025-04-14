@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russcheems
-- 👀 I’m interested in coding, reading, watching...
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in coding, reading...
+- 🌱 I’m currently learning AI for finance; llm
 - 💞️ I’m looking to collaborate on fun games
 
 <!---
